@@ -1,7 +1,8 @@
 dotfiles
 ========================
 
-My dotfiles controlled by GNU Stow.
+dotfiles from Benyip
+
 
 License
 -----------------------
